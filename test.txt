@@ -1,0 +1,1 @@
+On a ajouté et "commité" le fichier avec nos nom dans la branche "mon_fichier" mais cela n'a pas d'impact sur la branche master la branche "master"
