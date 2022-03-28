@@ -1,0 +1,2 @@
+On n'a pas ajouté le fichier avec nos noms dans la branche master.
+On a ajouté et "commité" le fichier avec nos nom dans la branche "mon_fichier" mais cela n'a pas d'impact sur la branche master la branche "master"
